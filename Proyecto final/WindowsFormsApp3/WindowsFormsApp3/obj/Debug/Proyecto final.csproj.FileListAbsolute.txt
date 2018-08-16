@@ -1,0 +1,9 @@
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Proyecto final.csproj.GenerateResource.Cache
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Punto Laptop\Desktop\Trabajo final\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
